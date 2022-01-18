@@ -4,7 +4,7 @@
 
 ### 구성 : 
 
-### 1. 점주용 WEB [TicketZone](https://github.com/jeonmingyun/comma/tree/master/TicketZone)
+1. 점주용 WEB [TicketZone](https://github.com/jeonmingyun/comma/tree/master/TicketZone)
 
    > 매장 등록, 매장 정보 수정 등 점주가 등록한 매장들을 한번에 관리 할 수 있음
 
