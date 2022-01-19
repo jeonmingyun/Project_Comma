@@ -1,7 +1,7 @@
 ## 캡스톤 디자인 (2019년 졸업 작품)
 
 ### 서비스 : 모바일 번효표
-
+### 주요 기술 : Spring Framework, Java, Oracle, HTML, jQuery, CSS 등
 ### 구성 : 
 
 1. **점주용 WEB [TicketZone](https://github.com/jeonmingyun/comma/tree/master/TicketZone)**
