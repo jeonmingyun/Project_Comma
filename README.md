@@ -44,6 +44,6 @@
 
 ![image](https://user-images.githubusercontent.com/45287417/153712193-c14ed138-bd9f-48b9-9e49-259ec40cd9db.png)
 
-**회원용 APP**
+**비회원용 APP**
 
 ![image](https://user-images.githubusercontent.com/45287417/153716053-362f69f8-ec49-462d-a0dd-66d9fcd6db70.png)
