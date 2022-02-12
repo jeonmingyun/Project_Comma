@@ -30,3 +30,8 @@
    > 가게 앞에 비치하여 비회원도 번호표를 발급 가능 하게 해줌
    >
    > 고객이 입력한 연락처로 번호표를 발급해서 SNS 로 알려줍니다.
+
+![image](https://user-images.githubusercontent.com/45287417/153712184-2c7445e4-b1c4-418a-aaa8-06712ed5dfb9.png)
+![image](https://user-images.githubusercontent.com/45287417/153712193-c14ed138-bd9f-48b9-9e49-259ec40cd9db.png)
+![image](https://user-images.githubusercontent.com/45287417/153712201-6ba9a27b-2210-4ed4-a4b3-4c2af35b694f.png)
+
