@@ -5,9 +5,11 @@
 ### APP 주요 기술 : Android Studio, Java, SQLite
 ### 구성 : 
 
-1. **점주용 WEB [TicketZone](https://github.com/jeonmingyun/comma/tree/master/TicketZone)**
+1. **번호요 WEB(점주용 페이지 포함) [TicketZone](https://github.com/jeonmingyun/comma/tree/master/TicketZone)**
 
-   > 매장 등록, 매장 정보 수정 등 점주가 등록한 매장들을 한번에 관리 할 수 있음
+   > 비회원들도 사용 가능한 공지사항, 제휴매장 정보, 고객센터(QnA) 제공
+   > 점주님이 로그인하면 점주용 매장 관리 페이지 제공
+   > 점주용 페이지에서 매장 등록, 매장 정보 수정, 건의사항 등 점주가 등록한 매장들을 관리하는데 필요한 서비스 제공
 
 2. **점주용 APP [app_mngr](https://github.com/jeonmingyun/comma/tree/master/app_mngr)**
 
